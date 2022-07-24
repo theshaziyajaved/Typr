@@ -1,6 +1,6 @@
 # Typr ⌨
 
-_Typr_ is a typing practice website created using HTML, CSS and JavaScript. Here users can practice typing from random paragraphs and get there scores.
+_Typr_ is a typing practice website created using HTML, CSS and JavaScript. Here users can practice typing from random paragraphs and get their scores.
 Try it out here 👉👉 : [Typr Live](https://theshaziyajaved.github.io/Typr/)
 
 ## Features
